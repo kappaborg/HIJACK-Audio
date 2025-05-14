@@ -18,7 +18,7 @@ Bu uygulama, macOS sistemlerinde farklı ses giriş cihazlarını farklı ses ç
 
 1. Repo'yu klonlayın:
 ```bash
-git clone https://github.com/kullanici/ses-yonlendirici.git
+git clone https://github.com/kappaborg/ses-yonlendirici.git
 cd ses-yonlendirici
 ```
 
